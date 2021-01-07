@@ -20,8 +20,13 @@ Hadd beszélek mostan veled,
 Régi cseléd vagy a háznál,
 Mindig emberűl szolgáltál,
 
+Ez nem  a vers része
+
 @todo: lemardt az utolsó versszak! feladat egy megoldas_<monogram> nevű branch-en pushold remotera a javitott verziót
 
 
 (Vác, 1848. február.)
+
+
+đ&@#&@Đ[][]Đ[]
 
